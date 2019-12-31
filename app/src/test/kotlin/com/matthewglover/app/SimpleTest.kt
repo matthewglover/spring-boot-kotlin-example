@@ -6,6 +6,6 @@ import org.junit.jupiter.api.Test
 internal class SimpleTest {
     @Test
     internal fun foo() {
-        assertTrue(true)
+        assertTrue(false)
     }
 }
